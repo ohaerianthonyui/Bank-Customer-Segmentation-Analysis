@@ -1,8 +1,6 @@
 # Bank-Customer-Segmentation-Analysis
  Insights from Transaction &amp; Demographic Data
 
-Certainly! Here's a more complete professional presentation of your analysis, including an introduction, objective, tools used, and methodology:
-
 ---
 
 
